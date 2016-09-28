@@ -1,0 +1,16 @@
+<activationresponse>
+<data>
+<machinehash>50B5-60DB-6BDE-67C3</machinehash>
+<productcode>26</productcode>
+<majorversion>6</majorversion>
+<minorversion>0</minorversion>
+<serialnumber>A3RM-BW2T-H987-7MCK-AFNP-YMKK</serialnumber>
+<session>e88f0a95-cae5-4750-aeac-91b1ca835f24</session>
+<edition>Professional</edition>
+<version>3</version>
+<userspurchased>1</userspurchased>
+</data>
+<signature>
+eTOWeO+7y2/W2/IYwTJEzbpDUKrAD9lBnpGUlxOHHS0I6QrjzRsy2R4Qdk4uxWSLGU19jZ0rNuIimGLDsgI8mtxovQYRDqh53gS0VyT/hg6H43/MA+fkqNXaFqvHjRrH0NAUXheO8OWLe5CgxPRjm+pwJU8VLypLL9hSPvOELx8=
+</signature>
+</activationresponse>
